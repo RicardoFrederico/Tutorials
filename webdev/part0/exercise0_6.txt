@@ -1,0 +1,10 @@
+title exercise 6 - note creating - single page app
+
+
+browser->server: HTTP POST https://studies.cs.helsinki.fi/exampleapp/new_note_spa
+server-->browser: 201 Code : {"message":"note created"}
+
+note over browser:
+browser executes the preavailable code
+that renders notes to display
+end note
